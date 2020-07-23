@@ -21,6 +21,18 @@ canvas {
 
 /* ---- particles.js container ---- */
 
+#externa {
+align-items: center;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+}
+#interna {
+width: 200px; /* Valor da Largura do elemento */
+}
+
+
 #particles-js {
   position: absolute;
   width: 100%;
@@ -29,7 +41,7 @@ canvas {
   background-image: url("https://i.imgur.com/qYuHVmd.png");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 100% 100%;
+  background-position: 50% 50%;
 }
 
 /* ---- stats.js ---- */
