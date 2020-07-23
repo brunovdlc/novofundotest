@@ -11,7 +11,7 @@
 
 body {
   margin: 0;
-  font:normal 75% Arial, Helvetica, sans-serif;
+  font:normal 100% Arial, Helvetica, sans-serif;
 }
 
 canvas {
@@ -29,7 +29,7 @@ canvas {
   background-image: url("https://i.imgur.com/qYuHVmd.png");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: 100% 100%;
 }
 
 /* ---- stats.js ---- */
