@@ -156,8 +156,8 @@
     </div>
 
 <!-- Logo -->
-<style>audio::-webkit-media-controls-timeline { display:none;}</style>
-<audio autoplay controls="controls" src="http://stream2.painel-stm.com:10016/;"></audio>
+<iframe src="http://player.painel-stm.com/player-barra/10016/000000" frameborder="0" width="100%" height="31"></iframe>
+          
 <!-- Horario + Data -->
 	
     <script>
