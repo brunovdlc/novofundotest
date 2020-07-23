@@ -11,7 +11,7 @@
 
 body {
   margin: 0;
-  font:normal 75% Arial, Helvetica, sans-serif;
+  font:normal 100% Arial, Helvetica, sans-serif;
 }
 
 canvas {
@@ -20,6 +20,18 @@ canvas {
 }
 
 /* ---- particles.js container ---- */
+
+#externa {
+align-items: center;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+}
+#interna {
+width: 200px; /* Valor da Largura do elemento */
+}
+
 
 #particles-js {
   position: absolute;
