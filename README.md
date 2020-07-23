@@ -8,6 +8,7 @@
 <!-- Particulas interativas +- estrelas -->
     <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
 
+
 <!-- Style geral -->
     <style>
     
@@ -125,6 +126,7 @@
       <canvas class="particles-js-canvas-el" width="400" height="822" style="width: 100%; height: 100%;"></canvas>
     </div> 
 
+
 <!-- Data + Hora-->
     <div class="wrap">
       <div class="widget">
@@ -156,8 +158,20 @@
     </div>
 
 <!-- Logo -->
-<iframe src="http://player.painel-stm.com/player-barra/10016/000000" frameborder="0" width="100%" height="31"></iframe>
-          
+
+<head>
+<title>Tag Audio HTML5</title>
+</head>
+<body>
+ 
+<audio preload="auto" controls>
+  <source src="http://stream2.painel-stm.com:10016/;" type="audio/ogg">
+  <source src="http://stream2.painel-stm.com:10016/;" type="audio/mpeg">
+Seu navegador não suporta a tag áudio
+</audio>
+ 
+</body>
+
 <!-- Horario + Data -->
 	
     <script>
